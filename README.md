@@ -13,34 +13,35 @@
 ## Work Experience:
 
 ### Principal Consultant - ELM Company, Riyadh KSA, Sep 2012 - Sep 2025
-  #### AI & Advanced Systems
+  
+  ### AI & Advanced Systems
   - LLMs (Transformers, MCP, LangChain, LangGraph)
   - Vector Databases and RAG
   - NLP & Computer Vision
-  #### Machine Learning & Deep Learning
+  ### Machine Learning & Deep Learning
   - Supervised & Unsupervised Learning, Neural Networks
   - Model Design, Training, Evaluation & Optimization
   - End-to-End ML Lifecycle (from experimentation to deployment)
-  #### MLOps & AIOps
+  ### MLOps & AIOps
   - CI/CD for ML models, Automated Training Pipelines
   - GitHub, GitLab
   - Dockers, Kubernates
   - Model Deployment (APIs, Containers, Cloud)
   - Model Monitoring, Drift Detection, Retraining Strategies
   - AIOps for System Reliability, Intelligent Monitoring, Incident Automation
-  #### Data Collection & Integration
+  ### Data Collection & Integration
   - Web Scraping, APIs Integration
   - ETL/ELT Pipelines (SSIS, Airflow, NiFi, Pentaho) 
-  #### Data Warehousing & Engineering
+  ### Data Warehousing & Engineering
   - Star & Snowflake Schemas, Data Modeling
   - Scalable Data Pipelines & Workflow Orchestration
-  #### Cloud Platforms
+  ### Cloud Platforms
   - AWS, GCP, Azure
-  #### Programming Languages
+  ### Programming Languages
   - Python, C# .Net, Java, JavaScript
-  #### Business Process Automation
+  ### Business Process Automation
   - Camunda BPMN, K2-Five
-  #### Enterprise Applications
+  ### Enterprise Applications
   - Microsoft Dynamics 365 CE (CRM)
 
 ## My Portfolio:
